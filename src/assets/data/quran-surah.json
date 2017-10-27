@@ -1,0 +1,1030 @@
+{  
+   "surah":[  
+      {  
+         "index":1,
+         "start":0,
+         "ayas":7,
+         "name":"الفاتحة",
+         "tname":" Al-Fatihah",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":2,
+         "start":7,
+         "ayas":286,
+         "name":"البقرة",
+         "tname":" Al-Baqarah",
+         "type":"Madaniyah",
+         "rukus":40
+      },
+      {  
+         "index":3,
+         "start":293,
+         "ayas":200,
+         "name":"آل عمران",
+         "tname":" Ali Imran",
+         "type":"Madaniyah",
+         "rukus":20
+      },
+      {  
+         "index":4,
+         "start":493,
+         "ayas":176,
+         "name":"النساء",
+         "tname":" An-Nisaa",
+         "type":"Madaniyah",
+         "rukus":24
+      },
+      {  
+         "index":5,
+         "start":669,
+         "ayas":120,
+         "name":"المائدة",
+         "tname":" Al-Maidah",
+         "type":"Madaniyah",
+         "rukus":16
+      },
+      {  
+         "index":6,
+         "start":789,
+         "ayas":165,
+         "name":"الأنعام",
+         "tname":" Al-An'am",
+         "type":"Makkiyah",
+         "rukus":20
+      },
+      {  
+         "index":7,
+         "start":954,
+         "ayas":206,
+         "name":"الأعراف",
+         "tname":" Al-A'raf",
+         "type":"Makkiyah",
+         "rukus":24
+      },
+      {  
+         "index":8,
+         "start":1160,
+         "ayas":75,
+         "name":"الأنفال",
+         "tname":" Al-Anfaal",
+         "type":"Madaniyah",
+         "rukus":10
+      },
+      {  
+         "index":9,
+         "start":1235,
+         "ayas":129,
+         "name":"التوبة",
+         "tname":" At-Taubah",
+         "type":"Madaniyah",
+         "rukus":16
+      },
+      {  
+         "index":10,
+         "start":1364,
+         "ayas":109,
+         "name":"يونس",
+         "tname":" Yunus",
+         "type":"Makkiyah",
+         "rukus":11
+      },
+      {  
+         "index":11,
+         "start":1473,
+         "ayas":123,
+         "name":"هود",
+         "tname":" Huud",
+         "type":"Makkiyah",
+         "rukus":10
+      },
+      {  
+         "index":12,
+         "start":1596,
+         "ayas":111,
+         "name":"يوسف",
+         "tname":" Yusuf",
+         "type":"Makkiyah",
+         "rukus":12
+      },
+      {  
+         "index":13,
+         "start":1707,
+         "ayas":43,
+         "name":"الرعد",
+         "tname":" Ar-Ra'd",
+         "type":"Madaniyah",
+         "rukus":6
+      },
+      {  
+         "index":14,
+         "start":1750,
+         "ayas":52,
+         "name":"ابراهيم",
+         "tname":" Ibrahim",
+         "type":"Makkiyah",
+         "rukus":7
+      },
+      {  
+         "index":15,
+         "start":1802,
+         "ayas":99,
+         "name":"الحجر",
+         "tname":" Al-Hijr",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":16,
+         "start":1901,
+         "ayas":128,
+         "name":"النحل",
+         "tname":" An-Nahl",
+         "type":"Makkiyah",
+         "rukus":16
+      },
+      {  
+         "index":17,
+         "start":2029,
+         "ayas":111,
+         "name":"الإسراء",
+         "tname":" Al-Israa'",
+         "type":"Makkiyah",
+         "rukus":12
+      },
+      {  
+         "index":18,
+         "start":2140,
+         "ayas":110,
+         "name":"الكهف",
+         "tname":" Al-Kahfi",
+         "type":"Makkiyah",
+         "rukus":12
+      },
+      {  
+         "index":19,
+         "start":2250,
+         "ayas":98,
+         "name":"مريم",
+         "tname":" Maryam",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":20,
+         "start":2348,
+         "ayas":135,
+         "name":"طه",
+         "tname":" Thaahaa",
+         "type":"Makkiyah",
+         "rukus":8
+      },
+      {  
+         "index":21,
+         "start":2483,
+         "ayas":112,
+         "name":"الأنبياء",
+         "tname":" Al-Anbiyaa",
+         "type":"Makkiyah",
+         "rukus":7
+      },
+      {  
+         "index":22,
+         "start":2595,
+         "ayas":78,
+         "name":"الحج",
+         "tname":" Al-Hajj",
+         "type":"Madaniyah",
+         "rukus":10
+      },
+      {  
+         "index":23,
+         "start":2673,
+         "ayas":118,
+         "name":"المؤمنون",
+         "tname":" Al-Mu'minuun",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":24,
+         "start":2791,
+         "ayas":64,
+         "name":"النور",
+         "tname":" An-Nuur",
+         "type":"Madaniyah",
+         "rukus":9
+      },
+      {  
+         "index":25,
+         "start":2855,
+         "ayas":77,
+         "name":"الفرقان",
+         "tname":" Al-Furqaan",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":26,
+         "start":2932,
+         "ayas":227,
+         "name":"الشعراء",
+         "tname":" Asy-Syu'araa",
+         "type":"Makkiyah",
+         "rukus":11
+      },
+      {  
+         "index":27,
+         "start":3159,
+         "ayas":93,
+         "name":"النمل",
+         "tname":" An-Naml",
+         "type":"Makkiyah",
+         "rukus":7
+      },
+      {  
+         "index":28,
+         "start":3252,
+         "ayas":88,
+         "name":"القصص",
+         "tname":" Al-Qashash",
+         "type":"Makkiyah",
+         "rukus":8
+      },
+      {  
+         "index":29,
+         "start":3340,
+         "ayas":69,
+         "name":"العنكبوت",
+         "tname":" Al-'Ankabuut",
+         "type":"Makkiyah",
+         "rukus":7
+      },
+      {  
+         "index":30,
+         "start":3409,
+         "ayas":60,
+         "name":"الروم",
+         "tname":" Ar-Ruum",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":31,
+         "start":3469,
+         "ayas":34,
+         "name":"لقمان",
+         "tname":" Luqman",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":32,
+         "start":3503,
+         "ayas":30,
+         "name":"السجدة",
+         "tname":" As-Sajdah",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":33,
+         "start":3533,
+         "ayas":73,
+         "name":"الأحزاب",
+         "tname":" Al-Ahzab",
+         "type":"Madaniyah",
+         "rukus":9
+      },
+      {  
+         "index":34,
+         "start":3606,
+         "ayas":54,
+         "name":"سبإ",
+         "tname":" Saba'",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":35,
+         "start":3660,
+         "ayas":45,
+         "name":"فاطر",
+         "tname":" Faathir",
+         "type":"Makkiyah",
+         "rukus":5
+      },
+      {  
+         "index":36,
+         "start":3705,
+         "ayas":83,
+         "name":"يس",
+         "tname":" Yaa Siin",
+         "type":"Makkiyah",
+         "rukus":5
+      },
+      {  
+         "index":37,
+         "start":3788,
+         "ayas":182,
+         "name":"الصافات",
+         "tname":" Ash-Shaaffat",
+         "type":"Makkiyah",
+         "rukus":5
+      },
+      {  
+         "index":38,
+         "start":3970,
+         "ayas":88,
+         "name":"ص",
+         "tname":" Shaad",
+         "type":"Makkiyah",
+         "rukus":5
+      },
+      {  
+         "index":39,
+         "start":4058,
+         "ayas":75,
+         "name":"الزمر",
+         "tname":" Az-Zumar",
+         "type":"Makkiyah",
+         "rukus":8
+      },
+      {  
+         "index":40,
+         "start":4133,
+         "ayas":85,
+         "name":"غافر",
+         "tname":" Al-Mu'min",
+         "type":"Makkiyah",
+         "rukus":9
+      },
+      {  
+         "index":41,
+         "start":4218,
+         "ayas":54,
+         "name":"فصلت",
+         "tname":" Fushshilat",
+         "type":"Makkiyah",
+         "rukus":6
+      },
+      {  
+         "index":42,
+         "start":4272,
+         "ayas":53,
+         "name":"الشورى",
+         "tname":" Asy-Syuura",
+         "type":"Makkiyah",
+         "rukus":5
+      },
+      {  
+         "index":43,
+         "start":4325,
+         "ayas":89,
+         "name":"الزخرف",
+         "tname":" Az-Zukhruf",
+         "type":"Makkiyah",
+         "rukus":7
+      },
+      {  
+         "index":44,
+         "start":4414,
+         "ayas":59,
+         "name":"الدخان",
+         "tname":" Ad-Dukhaan",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":45,
+         "start":4473,
+         "ayas":37,
+         "name":"الجاثية",
+         "tname":" Al-Jaatsiyah",
+         "type":"Makkiyah",
+         "rukus":4
+      },
+      {  
+         "index":46,
+         "start":4510,
+         "ayas":35,
+         "name":"الأحقاف",
+         "tname":" Al-Ahqaaf",
+         "type":"Makkiyah",
+         "rukus":4
+      },
+      {  
+         "index":47,
+         "start":4545,
+         "ayas":38,
+         "name":"محمد",
+         "tname":" Muhammad",
+         "type":"Madaniyah",
+         "rukus":4
+      },
+      {  
+         "index":48,
+         "start":4583,
+         "ayas":29,
+         "name":"الفتح",
+         "tname":" Al-Fat-h",
+         "type":"Madaniyah",
+         "rukus":4
+      },
+      {  
+         "index":49,
+         "start":4612,
+         "ayas":18,
+         "name":"الحجرات",
+         "tname":" Al-Hujuraat",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":50,
+         "start":4630,
+         "ayas":45,
+         "name":"ق",
+         "tname":" Qaaf",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":51,
+         "start":4675,
+         "ayas":60,
+         "name":"الذاريات",
+         "tname":" Adz-Dzaariyat",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":52,
+         "start":4735,
+         "ayas":49,
+         "name":"الطور",
+         "tname":" Ath-Thuur",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":53,
+         "start":4784,
+         "ayas":62,
+         "name":"النجم",
+         "tname":" An-Najm",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":54,
+         "start":4846,
+         "ayas":55,
+         "name":"القمر",
+         "tname":" Al-Qamar",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":55,
+         "start":4901,
+         "ayas":78,
+         "name":"الرحمن",
+         "tname":" Ar-Rahmaan",
+         "type":"Madaniyah",
+         "rukus":3
+      },
+      {  
+         "index":56,
+         "start":4979,
+         "ayas":96,
+         "name":"الواقعة",
+         "tname":" Al-Waaqi'ah",
+         "type":"Makkiyah",
+         "rukus":3
+      },
+      {  
+         "index":57,
+         "start":5075,
+         "ayas":29,
+         "name":"الحديد",
+         "tname":" Al-Hadiid",
+         "type":"Madaniyah",
+         "rukus":4
+      },
+      {  
+         "index":58,
+         "start":5104,
+         "ayas":22,
+         "name":"المجادلة",
+         "tname":" Al-Mujaadilah",
+         "type":"Madaniyah",
+         "rukus":3
+      },
+      {  
+         "index":59,
+         "start":5126,
+         "ayas":24,
+         "name":"الحشر",
+         "tname":" Al-Hasyr",
+         "type":"Madaniyah",
+         "rukus":3
+      },
+      {  
+         "index":60,
+         "start":5150,
+         "ayas":13,
+         "name":"الممتحنة",
+         "tname":" Al-Mumtahanah",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":61,
+         "start":5163,
+         "ayas":14,
+         "name":"الصف",
+         "tname":" Ash-Shaff",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":62,
+         "start":5177,
+         "ayas":11,
+         "name":"الجمعة",
+         "tname":" Al-Jumuah",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":63,
+         "start":5188,
+         "ayas":11,
+         "name":"المنافقون",
+         "tname":" Al-Munaafiqun",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":64,
+         "start":5199,
+         "ayas":18,
+         "name":"التغابن",
+         "tname":" At-Taghaabun",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":65,
+         "start":5217,
+         "ayas":12,
+         "name":"الطلاق",
+         "tname":" Ath-Thalaaq",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":66,
+         "start":5229,
+         "ayas":12,
+         "name":"التحريم",
+         "tname":" At-Tahriim",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":67,
+         "start":5241,
+         "ayas":30,
+         "name":"الملك",
+         "tname":" Al-Mulk",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":68,
+         "start":5271,
+         "ayas":52,
+         "name":"القلم",
+         "tname":" Al-Qalam",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":69,
+         "start":5323,
+         "ayas":52,
+         "name":"الحاقة",
+         "tname":" Al-Haaqqah",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":70,
+         "start":5375,
+         "ayas":44,
+         "name":"المعارج",
+         "tname":" Al-Ma'aarij",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":71,
+         "start":5419,
+         "ayas":28,
+         "name":"نوح",
+         "tname":" Nuh",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":72,
+         "start":5447,
+         "ayas":28,
+         "name":"الجن",
+         "tname":" Al-Jin",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":73,
+         "start":5475,
+         "ayas":20,
+         "name":"المزمل",
+         "tname":" Al-Muzzammil",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":74,
+         "start":5495,
+         "ayas":56,
+         "name":"المدثر",
+         "tname":" Al-Muddatstsir",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":75,
+         "start":5551,
+         "ayas":40,
+         "name":"القيامة",
+         "tname":" Al-Qiyaamah",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":76,
+         "start":5591,
+         "ayas":31,
+         "name":"الانسان",
+         "tname":" Al-Insaan",
+         "type":"Madaniyah",
+         "rukus":2
+      },
+      {  
+         "index":77,
+         "start":5622,
+         "ayas":50,
+         "name":"المرسلات",
+         "tname":" Al-Mursalaat",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":78,
+         "start":5672,
+         "ayas":40,
+         "name":"النبإ",
+         "tname":" An-Naba'",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":79,
+         "start":5712,
+         "ayas":46,
+         "name":"النازعات",
+         "tname":" An-Naazi'aat",
+         "type":"Makkiyah",
+         "rukus":2
+      },
+      {  
+         "index":80,
+         "start":5758,
+         "ayas":42,
+         "name":"عبس",
+         "tname":" 'Abasa",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":81,
+         "start":5800,
+         "ayas":29,
+         "name":"التكوير",
+         "tname":" At-Takwiir",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":82,
+         "start":5829,
+         "ayas":19,
+         "name":"الإنفطار",
+         "tname":" Al-Infithaar",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":83,
+         "start":5848,
+         "ayas":36,
+         "name":"المطففين",
+         "tname":" Al-Muthaffif",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":84,
+         "start":5884,
+         "ayas":25,
+         "name":"الإنشقاق",
+         "tname":" Al-Insyiqaaq",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":85,
+         "start":5909,
+         "ayas":22,
+         "name":"البروج",
+         "tname":" Al-Buruuj",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":86,
+         "start":5931,
+         "ayas":17,
+         "name":"الطارق",
+         "tname":" Ath-Thaariq",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":87,
+         "start":5948,
+         "ayas":19,
+         "name":"الأعلى",
+         "tname":" Al-A'laa",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":88,
+         "start":5967,
+         "ayas":26,
+         "name":"الغاشية",
+         "tname":" Al-Ghaasyiyah",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":89,
+         "start":5993,
+         "ayas":30,
+         "name":"الفجر",
+         "tname":" Al-Fajr",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":90,
+         "start":6023,
+         "ayas":20,
+         "name":"البلد",
+         "tname":" Al-Balad",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":91,
+         "start":6043,
+         "ayas":15,
+         "name":"الشمس",
+         "tname":" Asy-Syams",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":92,
+         "start":6058,
+         "ayas":21,
+         "name":"الليل",
+         "tname":" Al-Lail",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":93,
+         "start":6079,
+         "ayas":11,
+         "name":"الضحى",
+         "tname":" Adh-Dhuhaa",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":94,
+         "start":6090,
+         "ayas":8,
+         "name":"الشرح",
+         "tname":" Alam Nasyrah",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":95,
+         "start":6098,
+         "ayas":8,
+         "name":"التين",
+         "tname":" At-Tiin",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":96,
+         "start":6106,
+         "ayas":19,
+         "name":"العلق",
+         "tname":" Al-'Alaq",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":97,
+         "start":6125,
+         "ayas":5,
+         "name":"القدر",
+         "tname":" Al-Qadr",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":98,
+         "start":6130,
+         "ayas":8,
+         "name":"البينة",
+         "tname":" Al-Bayyinah",
+         "type":"Madaniyah",
+         "rukus":1
+      },
+      {  
+         "index":99,
+         "start":6138,
+         "ayas":8,
+         "name":"الزلزلة",
+         "tname":" Az-Zalzalah",
+         "type":"Madaniyah",
+         "rukus":1
+      },
+      {  
+         "index":100,
+         "start":6146,
+         "ayas":11,
+         "name":"العاديات",
+         "tname":" Al-'Aadiyaat",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":101,
+         "start":6157,
+         "ayas":11,
+         "name":"القارعة",
+         "tname":" Al-Qaari'ah",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":102,
+         "start":6168,
+         "ayas":8,
+         "name":"التكاثر",
+         "tname":" At-Takaatsur",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":103,
+         "start":6176,
+         "ayas":3,
+         "name":"العصر",
+         "tname":" Al-'Ashr",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":104,
+         "start":6179,
+         "ayas":9,
+         "name":"الهمزة",
+         "tname":" Al-Humazah",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":105,
+         "start":6188,
+         "ayas":5,
+         "name":"الفيل",
+         "tname":" Al-Fiil",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":106,
+         "start":6193,
+         "ayas":4,
+         "name":"قريش",
+         "tname":" Quraisy",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":107,
+         "start":6197,
+         "ayas":7,
+         "name":"الماعون",
+         "tname":" Al-Maa'uun",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":108,
+         "start":6204,
+         "ayas":3,
+         "name":"الكوثر",
+         "tname":" Al-Kautsar",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":109,
+         "start":6207,
+         "ayas":6,
+         "name":"الكافرون",
+         "tname":" Al-Kaafiruun",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":110,
+         "start":6213,
+         "ayas":3,
+         "name":"النصر",
+         "tname":" An-Nashr",
+         "type":"Madaniyah",
+         "rukus":1
+      },
+      {  
+         "index":111,
+         "start":6216,
+         "ayas":5,
+         "name":"المسد",
+         "tname":" Al-Lahab",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":112,
+         "start":6221,
+         "ayas":4,
+         "name":"الإخلاص",
+         "tname":" Al-Ikhlash",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":113,
+         "start":6225,
+         "ayas":5,
+         "name":"الفلق",
+         "tname":" Al-Falaq",
+         "type":"Makkiyah",
+         "rukus":1
+      },
+      {  
+         "index":114,
+         "start":6230,
+         "ayas":6,
+         "name":"الناس",
+         "tname":" An-Naas",
+         "type":"Makkiyah",
+         "rukus":1
+      }
+   ]
+}

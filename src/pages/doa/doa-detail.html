@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{doa.doa}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+    <div *ngFor="let surah of surahs; let i=index;">
+      <div class="ayah" *ngFor="let ayah of surah.aya">
+        <div>{{surah.index}}:{{ayah.index}}</div>
+          <div class="ayah-text">{{ayah.text}}</div>
+          <div class="ayah-translation">{{ayah.text_id}}</div>
+      </div>
+    </div>
+</ion-content>

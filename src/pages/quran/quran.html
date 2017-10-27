@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Al Qur'an</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only color="royal">
+        <ion-icon name="search"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+  <ion-list>
+    <button ion-item *ngFor="let surah of surahs; let i=index;"  (click)="selectSurah($event, surah)">
+      <ion-avatar item-left>
+        <div class="avatar">{{i+1}}</div>
+      </ion-avatar>
+      {{surah.tname}}
+      <div class="item-note" item-right>
+        <span class="surah-icons surah{{i+1}}"></span>
+      </div>
+    </button>
+  </ion-list>
+</ion-content>
+

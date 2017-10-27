@@ -1,0 +1,25 @@
+{
+    "doa":[
+        {
+            "index": 1,
+            "doa": "Doa Memohon Petunjuk",
+            "surah": 1,
+            "ayah_start": 6,
+            "ayah_end": 7 
+        },
+        {
+            "index": 2,
+            "doa": "Doa Nabi Ibrahim",
+            "surah": 2,
+            "ayah_start": 126,
+            "ayah_end": 126 
+        },
+        {
+            "index": 3,
+            "doa": "Doa Nabi Ibrahim dan Nabi Ismail ketika Membangun Fondasi Ka'bah",
+            "surah": 2,
+            "ayah_start": 127,
+            "ayah_end": 128 
+        }
+    ]
+}

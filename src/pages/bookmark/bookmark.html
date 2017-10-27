@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Penanda</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only color="royal">
+        <ion-icon name="search"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <button ion-item *ngFor="let bookmark of bookmarks; let i=index;" >
+      <ion-avatar item-left>
+        <div class="avatar">{{i+1}}</div>
+      </ion-avatar>
+      {{bookmark.name}}
+    </button>
+  </ion-list>
+</ion-content>

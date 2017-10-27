@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Abjad</ion-title>
+  </ion-navbar>
+  <ion-toolbar no-border-top>
+    <ion-searchbar color="primary" 
+                    [(ngModel)]="queryText"
+                    (ionInput)="search()"
+                   placeholder="Search"
+                    >
+    </ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+  <ion-list>
+    <ion-item-group *ngFor="let alpha of alphabet;"  >
+      <ion-item-divider sticky>
+        <ion-label>{{alpha.index}}</ion-label>
+      </ion-item-divider>
+      <button ion-item text-wrap *ngFor="let topic of alpha.topics;let i=index" (click)="selectItem($event, topic);">
+        {{topic.topic}}
+      </button>
+    </ion-item-group>
+  </ion-list>
+</ion-content>

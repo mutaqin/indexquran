@@ -1,0 +1,101 @@
+{
+    "alphabet":[
+        {
+            "index": "A",
+            "topics": [
+                {
+                    "topic": "'Ad",
+                    "ayah":["7:65", "7:74"]
+                },
+                {
+                    "topic": "Abu Lahab (Abdul Uzza)",
+                    "ayah":["111:1-3"],
+                    "subtopics": [
+                        {
+                            "topic": "Istrinya",
+                            "ayah":["111:4-5"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": "B",
+            "topics": [
+                {
+                    "topic": "Ba'l",
+                    "ayah":["37:125"]
+                },
+                {
+                    "topic": "Babi",
+                    "ayah":["5:60"]
+                },
+                {
+                    "topic": "Badr",
+                    "ayah":["8:42"]
+                },
+                {
+                    "topic": "Badui",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Bagal",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Bahasa",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Bahaya",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Bahtera Nuh",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Baju Baja",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Bakkah",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": "Batasan",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": " Beban",
+                    "ayah":["9:90-99", "9:101-106"]
+                },
+                {
+                    "topic": " Bebijian",
+                    "ayah":["9:90-99", "9:101-106"]
+                }
+            ]
+        },
+        {
+            "index": "C",
+            "topics": [
+                {
+                    "topic": "Catatan Amal Seseorang",
+                    "ayah":["17:13"]
+                },
+                {
+                    "topic": "Cerai/Talak",
+                    "ayah":["5:60"]
+                },
+                {
+                    "topic": "Ciptaan",
+                    "ayah":["8:42"]
+                },
+                {
+                    "topic": "Cuaca",
+                    "ayah":["9:90-99", "9:101-106"]
+                }
+            ]
+        }
+    ]
+}

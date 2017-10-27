@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{surah.tname}}</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only color="royal">
+        <ion-icon name="search"></ion-icon>
+      </button>
+      <button ion-button icon-only (click)="presentPopover($event)">
+        <ion-icon name="more"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+  <div [ngClass]="nightMode?'surah-dark':'surah'">
+     <div *ngIf="!(surah.index==1 || surah.index==9)" class="surah-header">
+      <span class="bismillah"></span>
+    </div>
+    <div class="ayah"  *ngFor="let ayah of ayahs;" (press)="selectAyah(surah, ayah)">
+      <div [ngClass]="largerFontSize?'larger-font-size':''" >{{surah.index}}:{{ayah.index}}</div>
+      <div [ngClass]="largerFontSize?'ayah-text ayah-text-larger':'ayah-text'">{{ayah.text}}</div>
+      <div  *ngIf="translation" [ngClass]="largerFontSize?'ayah-translation larger-font-size':'ayah-translation'" >{{ayah.text_id}}</div>
+    </div> 
+  </div>
+</ion-content>

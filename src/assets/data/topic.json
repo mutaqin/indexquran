@@ -1,0 +1,52 @@
+{
+    "topics":[
+        {
+            "index": "1",
+            "name": "Keimanan"
+        },
+        {
+            "index": "2",
+            "name": "Rukun Islam"
+        },
+        {
+            "index": "3",
+            "name": "Awal Kejadian Makhluk, Diutusnya para Nabi dan Kisah-Kisah Umat Terhahulu"
+        },
+        {
+            "index": "4",
+            "name": "Sejarah Nabi Muhammad SAW"
+        },
+        {
+            "index": "5",
+            "name": "Manusia dan Akhlaknya"
+        },
+        {
+            "index": "6",
+            "name": "Anak-Anak, Keluarga, dan Warisan"
+        },
+        {
+            "index": "7",
+            "name": "Hukum dan Sanksi"
+        },
+        {
+            "index": "8",
+            "name": "Jihad"
+        },
+        {
+            "index": "9",
+            "name": "Muamalat"
+        },
+        {
+            "index": "10",
+            "name": "Ilmu"
+        },
+        {
+            "index": "11",
+            "name": "Makanan, Minuman, dan Pakaian"
+        },
+        {
+            "index": "12",
+            "name": "Pemerintahan, Kekuasaan, dan Peradilan"
+        }
+    ]
+}
